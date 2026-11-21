@@ -25,3 +25,6 @@ logs/
 
 # Temp
 .DS_Store
+
+# Agent operational directories
+agent-*
